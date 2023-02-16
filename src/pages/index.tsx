@@ -17,8 +17,8 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>src/pages/index.tsx</code>
+            Nextjs app deployed on Azure&nbsp;
+            <code className={styles.code}></code>
           </p>
           <div>
             <a
